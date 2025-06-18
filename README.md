@@ -36,7 +36,7 @@ NRI Institute of Technology, Guntur (2015 - 2019)
 ## 💼 Experience
 
 ### 🔹 Data Analyst – Zisya Technologies, Hyderabad  
-*Jul 2022 – Feb 2025*
+*Jul 2022 – Present*
 
 ### 🔹 Associate Software Engineer – Tech Mahindra, Chennai  
 *May 2021 – May 2022*
@@ -45,23 +45,25 @@ NRI Institute of Technology, Guntur (2015 - 2019)
 
 ## 📊 Projects
 
-### 📈 Sales and Inventory Performance Dashboard
-**Client**: Retail Chain – India  
-**Duration**: Jan 2022 – Present  
+### 📈 Insurance Dashboard
+**Client**: Insurance Group – USA  
+**Duration**: Jul 2022 – Present  
 **Role**: Power BI Developer  
 **Tools**: Power BI, SQL Server, Excel, DAX, Power Query, On-Premises Gateway
 
 #### Responsibilities:
-- Built real-time dashboards to track sales, inventory, and KPIs.
-- Modeled data using Star and Snowflake schemas.
+- Created Dashboard Reports to display multiple reports in single page.
+- Developed dynamic dashboards to visualize KPIs like premium collected, claim settlement ratio, loss ratio, and policy lapses.
+- Responsible for defining the scope of the project, gathering business requirements, doing analysis and documenting.
+- Created a star schema data model with fact tables (Claims, Policies) and dimension tables (Customers, Regions, Agents).
 - Created complex DAX measures and custom visuals.
 - Used Power Query for transformation and RLS for secure access.
 - Published reports, trained users, and drove self-service BI adoption.
 
 #### Achievements:
-- ⏱️ Reduced report time by 60% through optimization.
-- 📊 Increased report interactivity and user engagement by 40%.
-- 🧩 Unified data across branches for enterprise-level insights.
+- Reduced manual reporting time by 70%.
+- Improved visibility into business performance and claims operations.
+- Helped senior management identify underperforming policies and optimise regional strategies.
 
 ---
 
