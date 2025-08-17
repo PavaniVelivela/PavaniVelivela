@@ -69,7 +69,7 @@ NRI Institute of Technology, Guntur (2015 - 2019)
 
 ### 🛒 Global E-commerce Platform for Unilever
 **Client**: Unilever  
-**Duration**: Jan 2020 – Dec 2021  
+**Duration**: Oct 2021 – May 2022
 **Role**: Magento Developer  
 **Tools**: Magento 2, PHP, MySQL, Git
 
