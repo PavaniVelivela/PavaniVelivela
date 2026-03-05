@@ -35,8 +35,8 @@ NRI Institute of Technology, Guntur (2015 - 2019)
 
 ## 💼 Experience
 
-### 🔹 Data Analyst – Zisya Technologies, Hyderabad  
-*Jul 2022 – Present*
+### 🔹 Data Analyst – Softic digitech, Hyderabad  
+*Jan 2023 – Present*
 
 ### 🔹 Associate Software Engineer – Tech Mahindra, Chennai  
 *May 2021 – May 2022*
@@ -46,8 +46,7 @@ NRI Institute of Technology, Guntur (2015 - 2019)
 ## 📊 Projects
 
 ### 📈 Insurance Dashboard
-**Client**: Insurance Group – USA  
-**Duration**: Jul 2022 – Present  
+**Client**: Insurance Group – USA    
 **Role**: Power BI Developer  
 **Tools**: Power BI, SQL Server, Excel, DAX, Power Query, On-Premises Gateway
 
