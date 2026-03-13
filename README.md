@@ -36,7 +36,7 @@ NRI Institute of Technology, Guntur (2015 - 2019)
 ## 💼 Experience
 
 ### 🔹 Data Analyst – Softic digitech, Hyderabad  
-*Jan 2023 – Present*
+*Feb 2023 – Present*
 
 ### 🔹 Associate Software Engineer – Tech Mahindra, Chennai  
 *May 2021 – May 2022*
@@ -46,7 +46,7 @@ NRI Institute of Technology, Guntur (2015 - 2019)
 ## 📊 Projects
 
 ### 📈 Insurance Dashboard
-**Client**: Insurance Group – USA    
+**Client**: Elevance Health Group    
 **Role**: Power BI Developer  
 **Tools**: Power BI, SQL Server, Excel, DAX, Power Query, On-Premises Gateway
 
@@ -68,7 +68,7 @@ NRI Institute of Technology, Guntur (2015 - 2019)
 
 ### 🛒 Global E-commerce Platform for Unilever
 **Client**: Unilever  
-**Duration**: Oct 2021 – May 2022
+**Duration**: Sep 2021 – May 2022
 **Role**: Magento Developer  
 **Tools**: Magento 2, PHP, MySQL, Git
 
